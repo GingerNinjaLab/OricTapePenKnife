@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OricTapeKnife": {
+      "commandName": "Project",
+      "commandLineArgs": "basicauto \"C:\\Users\\richard.powell\\source\\repos\\CConsoleApp\\CConsoleApp\\code.tap\" \"C:\\emulators\\Oricutron_win32_v12\\tapes\\code.tap\""
+    }
+  }
+}
